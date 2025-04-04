@@ -6,6 +6,12 @@
 
 ## 使用
 
+下载打包好的软件： [releases](https://github.com/MGzhou/AntiSleepShutdownApp/releases/tag/App)
+
+如何需要自行运行，可以参考下面说明。
+
+## 代码
+
 ### 环境
 
 ```
