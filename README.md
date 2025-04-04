@@ -1,0 +1,2 @@
+# AntiSleepShutdownApp
+一个用于防止屏幕息屏和定时关机的Windows软件
